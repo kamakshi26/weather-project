@@ -1,2 +1,2 @@
 # weather-project
-using openweather app api , we get the weather report for the city
+a simple practice code which demonstrates how to use API using open weatherapp api.
